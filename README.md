@@ -1,6 +1,5 @@
 - 👋 Hi, I’m subhash, MSc-LENC 
-- 👀 I’m interested in Data analytics,powerbi,DAX,
-- 🌱 I’m currently learning Advanced Tsql, data nalysis 
+- 👀 I’m interested in Data analytics,powerbi,SQL,T-Sql
 - 💞️ I’m looking to collaborate on SQL,PowerBI,Data Visualisation
 - 📫 How to reach me subhash.lenc@gmail.com
 
