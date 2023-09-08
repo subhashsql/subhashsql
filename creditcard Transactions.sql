@@ -1,11 +1,9 @@
 use creditcardtransactions
 go
-
 --------------- to check the column names and data
 select top 5 *
 from dbo.credit_card_transcations
 go
-
 ----------- to check the type of card available
 
 select distinct card_type
