@@ -4,7 +4,7 @@ select *
 from [dbo].[customer_shopping_data]
 select gender,price,round(price,2)
 from dbo.customer_shopping_data
-
+------------------
 select sum(round(price,2)) over (partition by payment_method) as sum_total
 from dbo.cucustomer_shopping_data
 
