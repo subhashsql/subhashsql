@@ -1,4 +1,4 @@
-#- 👋 Hi, I’m subhash, MSc-LENC 
+- 👋Hi, I’m subhash, MSc-LENC 
 - 👀 I’m interested in Data analytics,powerbi,SQL,T-Sql
 - 💞️ I’m looking to collaborate on SQL,PowerBI,Data Visualisation
 - 📫 How to reach me subhash.lenc@gmail.com
