@@ -1,5 +1,4 @@
-<img src ="https://github.com/subhashsql/Supplier-Case-Study-Full/blob/main/Files_jpeg/download.png" width="60">  <img src ="https://github.com/subhashsql/Supplier-Case-Study-Full/blob/main/Files_jpeg/64px-New_Power_BI_Logo.svg.png" width="50"> <img src ="https://github.com/subhashsql/Supplier-Case-Study-Full/blob/main/Files_jpeg/Excel.svg" width="50"> 
-
+ <img src ="https://github.com/subhashsql/Supplier-Case-Study-Full/blob/main/Files_jpeg/64px-New_Power_BI_Logo.svg.png" width="50"> <img src ="https://github.com/subhashsql/Supplier-Case-Study-Full/blob/main/Files_jpeg/Excel.svg" width="50"> <img src ="https://github.com/subhashsql/Supplier-Case-Study-Full/blob/main/Files_jpeg/Msbi.jfif" width="70"> <img src ="https://github.com/subhashsql/Supplier-Case-Study-Full/blob/main/Files_jpeg/download.png" width="60">  
 
 
 - 👋Hi, I’m subhash, MSc-LENC 
