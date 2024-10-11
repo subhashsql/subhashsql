@@ -1,3 +1,8 @@
+
+<img src ="https://github.com/subhashsql/Supplier-Case-Study-Full/blob/main/Files_jpeg/download.png" width="60">  <img src ="https://github.com/subhashsql/Supplier-Case-Study-Full/blob/main/Files_jpeg/64px-New_Power_BI_Logo.svg.png" width="50"> <img src ="https://github.com/subhashsql/Supplier-Case-Study-Full/blob/main/Files_jpeg/Excel.svg" width="50"> 
+
+
+
 - 👋Hi, I’m subhash, MSc-LENC 
 - 👀 I’m interested in Data analytics,powerbi,SQL,T-Sql
 - 💞️ I’m looking to collaborate on SQL,PowerBI,Data Visualisation
